@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-DJ-Database-URL
+DJ-Redis-URL
 ===============
 
 This simple Django utility allows you to utilize the
